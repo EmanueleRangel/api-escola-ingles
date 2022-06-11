@@ -5,7 +5,7 @@
 
 ## Sobre
 REST API de gerenciamento de uma escola de inglês desenvolvida com **Node.JS** e **Express** e conexão com **MySQL**, durante a aula de ORM com Node.JS da plataforma
-de ensino Alura, com o objetivo de compreender a utilizar as funcionalidades do **Sequelize**. Além do **CRUD** básico, 
+de ensino Alura, com o objetivo de compreender e utilizar as funcionalidades do **Sequelize**. Além do **CRUD** básico, 
 a API também apresenta diferentes métodos e refina as consultas do banco de forma eficiente através das funcionalidades
 do Sequelize, fazendo o gerenciamento de diferentes tabelas com associações entre si. 
 
